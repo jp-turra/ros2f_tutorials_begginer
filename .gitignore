@@ -1,4 +1,7 @@
-**/build/**
-**/log/**
-**/install/**
+build/
+log/
+install/
 src/.vscode
+src/build/
+src/install/
+src/log/
