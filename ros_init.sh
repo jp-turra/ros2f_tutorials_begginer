@@ -1,1 +1,0 @@
-rosdep install -i --from-path src --rosdistro foxy -y && colcon build --continue-on-error
