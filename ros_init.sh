@@ -1,1 +1,1 @@
-mv ./src ./all_data && mkdir src && rosdep install -i --from-path src --rosdistro foxy -y && cd .. && colcon build && rm src && mv ./all_data ./src
+rosdep install -i --from-path src --rosdistro foxy -y && colcon build
