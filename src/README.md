@@ -59,26 +59,3 @@
   * polygon_plugins
 * Teste
   * ```ros2 run polygon_base area_node```
-
-# Tutoriais Intermediários
-## Criando uma Ação
-* 
-
-## Um servidor de uma Ação
-* 
-
-## Multiplos nós em um único processo
-* 
-
-## Launch
-* 
-
-## TF2
-* 
-
-## Testando
-* 
-
-## URDF
-* 
-  
